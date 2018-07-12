@@ -1,7 +1,7 @@
 ## ASA-CHIA 全基因组SNP芯片开源计划
 
 ----------
-我们官方网站：[http://www.bioguoke.com/](http://www.bioguoke.com/)
+果壳生物官方网站：[http://www.bioguoke.com/](http://www.bioguoke.com/)
 
 ### ASA (Asian Screening Array) 标准版本芯片位点信息
 * ASA 基因型数据格式白皮书
