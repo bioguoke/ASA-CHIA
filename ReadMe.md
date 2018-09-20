@@ -58,9 +58,7 @@
 * 其他黑科技
 
 ### 促销活动
-* 打一波广告：果壳周年庆时，ASA全基因组检测价格最低不高于200
-促销海报
-![ASA促销](sale/sale.jpg)
+
 
 
   [1]: https://github.com/bioguoke/RS_white-paper
