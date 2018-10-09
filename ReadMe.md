@@ -24,6 +24,13 @@
 * 欢迎大家下载测试
 
 
+### <font color=#FF6347 >ASA-CHIA 定制芯片真实测试数据</font>
+* ASA-CHIA 定制版 10个男性样本 + 10个女性样本测试数据
+    * 下载链接如下：
+    * 链接：[https://pan.baidu.com/s/11D5fbIQWqG6lY9J0SLXTTw](https://pan.baidu.com/s/11D5fbIQWqG6lY9J0SLXTTw) 
+    * 密码：5uep
+
+* 欢迎大家下载测试
 
 
 ### <span id = "jump">ASA 标准版本测试数据</span>
