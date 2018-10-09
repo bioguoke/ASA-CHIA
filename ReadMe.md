@@ -61,7 +61,7 @@
 
 
 ### TODO
-* ASA-CHIA测试数据
+* ASA-CHIA pro & other algorithm
 * 其他黑科技
 
 ### 促销活动
