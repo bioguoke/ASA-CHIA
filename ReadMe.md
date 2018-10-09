@@ -33,6 +33,15 @@
 * 欢迎大家下载测试
 
 
+### <font color=#FF6347 >ASA-MD 芯片真实测试数据</font>
+* ASA-MD 24个样本测试数据
+    * 下载链接如下：
+    * 链接：[https://pan.baidu.com/s/1FdgsU-524BImBonkmPx_7A](https://pan.baidu.com/s/1FdgsU-524BImBonkmPx_7A) 
+    * 密码：ifpx
+
+* 欢迎大家下载测试
+
+
 ### <span id = "jump">ASA 标准版本测试数据</span>
 
 * 24个样本 ASA标准版本数据
