@@ -15,15 +15,6 @@
 
 
 
-### ASA-CHIA “果壳生物百万芯片定制计划” 定制版本位点信息
-* ASA-CHIA 定制版本位点信息
-    * 数据包含了大约75万SNP位点信息
-    * 链接：[https://pan.baidu.com/s/1FmD4dlIcmfPiYPzCf7QsGA](https://pan.baidu.com/s/1FmD4dlIcmfPiYPzCf7QsGA) 
-    * 密码：065f
-
-* 欢迎大家下载测试
-
-
 ### <font color=#FF6347 >ASA-CHIA 定制芯片真实测试数据</font>
 * ASA-CHIA 定制版 10个男性样本 + 10个女性样本测试数据
     * 下载链接如下：
